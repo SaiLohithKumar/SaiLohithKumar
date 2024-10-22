@@ -27,7 +27,7 @@
 <img align="right" alt="hi" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47s1bagyqipze2940fwcu8wi70hb3377i3w6q2vvz4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently a BTech CSE student at Bennett University, Greater Noida.
-- 🌱 I’m currently learning **Machine Learning** and **Web Development**.
+- 🌱 I’m currently learning **Data Science**.
 - 📚 I'm passionate about Artificial Intelligence, Machine Learning, and exploring the field of Data Science.
 - 💻 I have experience in developing web applications using technologies like **HTML/CSS**, **JavaScript**, and **Python**.
 - 🤝 I'm open to collaborations on interesting projects related to AI, ML, and Web Development.
@@ -36,7 +36,7 @@
 <br></br>
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
-<p align="center"> <a href="https://github.com/manikantagangam"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,django,nodejs,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
+<p align="center"> <a href="https://github.com/SaiLohithKumar"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,django,nodejs,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
 
 <br></br>
 
