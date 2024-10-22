@@ -13,9 +13,9 @@
     <!--a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a> 
     <!-- <a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=webcomponents.org&logoColor=white" />
     </a> -->
-    <a href="https://github.com/manikantagangam" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/manikantagangam" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/manikantagangam/" target="_blank">
+    <a href="[https://github.com/SaiLohithKumar]" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="www.linkedin.com/in/paidi-sai-lohith-kumar-762407240" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="(https://leetcode.com/u/LohithKumarPaidi/)" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="mailto:e21cseu0947@bennett.edu.in" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- <a href="https://www.instagram.com/manikanta_gangam" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
