@@ -13,7 +13,7 @@
     <!--a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" /></a> 
     <!-- <a href="https://manikantagangam.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%23117AC9.svg?&style=for-the-badge&logo=webcomponents.org&logoColor=white" />
     </a> -->
-    <a href="[https://github.com/SaiLohithKumar]" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+    <a href="https://github.com/SaiLohithKumar" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
     <a href="www.linkedin.com/in/paidi-sai-lohith-kumar-762407240" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="(https://leetcode.com/u/LohithKumarPaidi/)" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
