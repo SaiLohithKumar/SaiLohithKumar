@@ -33,10 +33,9 @@
 - 🤝 I'm open to collaborations on interesting projects related to AI, ML, and Web Development.
 
 <br></br>
-<br></br>
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
-<p align="center"> <a href="https://github.com/SaiLohithKumar"><img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,bootstrap,react,django,nodejs,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,idea,postman,github,git,bash,aws,matlab,figma,linux,latex,markdown"> </a> </p>
+<p align="center"> <a href="https://github.com/SaiLohithKumar"><img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,django,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,github,git,bash,aws,matlab,latex,markdown"> </a> </p>
 
 <br></br>
 
@@ -101,29 +100,3 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantagangam&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p> -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=manikantagangam&theme=dark&hide_border=true&stroke=f53b3b" alt="manikantagangam" />
-    </a>
-    <a title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=manikantagangam&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a>
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantagangam&layout=compact&hide_border=true&theme=gruvbox&bg_color=151515&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"/>
-    </a>
-  </div>
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manikantagangam&theme=gruvbox&bg_color=151515&hide_border=true" width="100%"/>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikantagangam&label=Profile%20views&color=0e75b6&style=flat" alt="surajdoddi" /> </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&textColor=ffffff&fontColor=ffffff"/>
-</p>
-<!-- <hr></hr> -->
