@@ -17,18 +17,17 @@
     <a href="https://www.linkedin.com/in/paidi-sai-lohith-kumar-762407240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/LohithKumarPaidi/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:e21cseu0462@bennett.edu.in" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<!-- <a href="https://www.instagram.com/manikanta_gangam" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-    <!-- a href="https://github.com/manikantagangam"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/manikantagangam?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="mailto:lohithkumar.jobs@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </p>
 
 <!-- ## 👨‍💻 About Me -->
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <img align="right" alt="hi" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47s1bagyqipze2940fwcu8wi70hb3377i3w6q2vvz4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently a BTech CSE student at Bennett University, Greater Noida.
-- 🌱 I’m currently learning **Data Science**.
-- 📚 I'm passionate about Artificial Intelligence, Machine Learning, and exploring the field of Data Science.
+- 🔭 I’m currently a Master of Data Science student at Adelaide University, Adelaide.
+- 🌱 I’m currently learning my masters in **Data Science**.
+- 📚 I'm passionate about Quant Analysis, Ai Chatbot, Deep Learning, and exploring the field of Data Science.
 - 💻 I have experience in developing web applications using technologies like **HTML/CSS**, **JavaScript**, and **Python**.
 - 🤝 I'm open to collaborations on interesting projects related to AI, ML, and Web Development.
 
