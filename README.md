@@ -35,7 +35,10 @@
 <br></br>
 
 <h2 align="center">🛠️ Technical Skills 🛠️</h2>
-<p align="center"> <a href="https://github.com/SaiLohithKumar"><img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,django,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,github,git,bash,aws,matlab,latex,markdown"> </a> </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,django,mysql,mongodb,tensorflow,flask,pytorch,vscode,replit,eclipse,github,git,bash,aws,matlab,latex,markdown&perline=10" />
+</p>
 
 <br></br>
 
